@@ -16,7 +16,7 @@ try {
     $mail->Host='smtp.gmail.com';
     $mail->SMTPAuth=true; // Enable SMTP authentication
     $mail->Username='ankushtechnical111@gmail.com'; // SMTP username
-    $mail->Password='0@v!0@123'; // SMTP password
+    $mail->Password='******'; // SMTP password
     $mail->SMTPSecure='ssl';
     $mail->Port=465;
 
